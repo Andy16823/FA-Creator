@@ -1,0 +1,11 @@
+C:\Users\andy1\source\repos\GenesisGlypheEditor\GenesisGlypheEditor\bin\Debug\GenesisGlypheEditor.exe.config
+C:\Users\andy1\source\repos\GenesisGlypheEditor\GenesisGlypheEditor\bin\Debug\GenesisGlypheEditor.exe
+C:\Users\andy1\source\repos\GenesisGlypheEditor\GenesisGlypheEditor\bin\Debug\GenesisGlypheEditor.pdb
+C:\Users\andy1\source\repos\GenesisGlypheEditor\GenesisGlypheEditor\obj\Debug\GenesisGlypheEditor.csproj.AssemblyReference.cache
+C:\Users\andy1\source\repos\GenesisGlypheEditor\GenesisGlypheEditor\obj\Debug\GenesisGlypheEditor.csproj.SuggestedBindingRedirects.cache
+C:\Users\andy1\source\repos\GenesisGlypheEditor\GenesisGlypheEditor\obj\Debug\GenesisGlypheEditor.Form1.resources
+C:\Users\andy1\source\repos\GenesisGlypheEditor\GenesisGlypheEditor\obj\Debug\GenesisGlypheEditor.Properties.Resources.resources
+C:\Users\andy1\source\repos\GenesisGlypheEditor\GenesisGlypheEditor\obj\Debug\GenesisGlypheEditor.csproj.GenerateResource.cache
+C:\Users\andy1\source\repos\GenesisGlypheEditor\GenesisGlypheEditor\obj\Debug\GenesisGlypheEditor.csproj.CoreCompileInputs.cache
+C:\Users\andy1\source\repos\GenesisGlypheEditor\GenesisGlypheEditor\obj\Debug\GenesisGlypheEditor.exe
+C:\Users\andy1\source\repos\GenesisGlypheEditor\GenesisGlypheEditor\obj\Debug\GenesisGlypheEditor.pdb
